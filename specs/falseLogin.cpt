@@ -1,0 +1,11 @@
+Created by tertan on 20.12.2020
+
+This is a concept file with following syntax for each concept.
+# Username alanına "hello@getir.com" yazılır daha sonra Lastname alanına "hell0" yazılır ve Login butonuna tıklanır.
+
+* Lastname alanına tıklanır.
+* Lastname alanına "hello@getir.com" değeri girilir.
+* astname alanına tıklanır.
+* Lastname alanına "hell0" değeri girilir.
+* Login butonuna tıklanır.
+* Ekran görüntüsü al ve "hatali giris" ismiyle kaydet.

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="477d4265-29df-42a1-81ce-2c73a77ccb24" name="Default Changelist" comment="* spec ve src dosyalari olusturuldu.&#10;* gauge yapisi kullanildi.&#10;* spec dosyalari bolunebildigi kadar bolundu.&#10;* e-posta gonderme metodu eklendi&#10;* ekran goruntusu metodu eklendi fakat hata alması halinde degil, steplerde istenildigi anda calisiyor.">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ertanAppiumDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/falseLogin.cpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/logOut.cpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/trueLogin.cpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/driver/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/driver/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ertanAppiumDemo/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ertanAppiumDemo/StepImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ertanAppiumDemo/SwipeCommands.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ertanka" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lwBUZyjW7aVKfqmoSAtMZxKGj4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../appiumDemo.v1" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="477d4265-29df-42a1-81ce-2c73a77ccb24" name="Default Changelist" comment="" />
+      <created>1608498289936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608498289936</updated>
+    </task>
+    <task id="LOCAL-00001" summary="* spec ve src dosyalari olusturuldu.&#10;* gauge yapisi kullanildi.&#10;* spec dosyalari bolunebildigi kadar bolundu.&#10;* e-posta gonderme metodu eklendi&#10;* ekran goruntusu metodu eklendi fakat hata alması halinde degil, steplerde istenildigi anda calisiyor.">
+      <created>1608498691029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608498691029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="* spec ve src dosyalari olusturuldu.&#10;* gauge yapisi kullanildi.&#10;* spec dosyalari bolunebildigi kadar bolundu.&#10;* e-posta gonderme metodu eklendi&#10;* ekran goruntusu metodu eklendi fakat hata alması halinde degil, steplerde istenildigi anda calisiyor." />
+    <option name="LAST_COMMIT_MESSAGE" value="* spec ve src dosyalari olusturuldu.&#10;* gauge yapisi kullanildi.&#10;* spec dosyalari bolunebildigi kadar bolundu.&#10;* e-posta gonderme metodu eklendi&#10;* ekran goruntusu metodu eklendi fakat hata alması halinde degil, steplerde istenildigi anda calisiyor." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="153" y="0" key="CommitChangelistDialog2" timestamp="1608498954757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="153" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608498954757" />
+    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1608499006995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608499006995" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608498928060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608498928060" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608498950653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608498950653" />
+  </component>
+</project>
