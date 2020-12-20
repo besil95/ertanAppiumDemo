@@ -1,0 +1,12 @@
+/src/test/java/ertanAppiumDemo/StepImplementation.java
+/src/test/java/ertanAppiumDemo/StepImplementationTest.groovy
+/src/test/java/ertanAppiumDemo/SwipeCommands.java
+/src/test/java/ertanAppiumDemo/Login.java
+/src/test/java/driver/DriverFactory.java
+/src/test/java/driver/Driver.java
+/specs/trueLogin.cpt
+/specs/logOut.cpt
+/specs/falseLogin.cpt
+/specs/example.spec
+/ertanAppiumDemo.iml
+/pom.xml
